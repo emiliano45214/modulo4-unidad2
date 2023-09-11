@@ -1,0 +1,17 @@
+body{
+  font-family: 'open sans', sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  background: url(https://image.freepik.com/foto-gratis/el-fondo-de-papel-arrugado_1373-412.jpg); 
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.holder{
+  max-width: 1112px;
+  margin: 0 auto;
+}
